@@ -51,3 +51,6 @@ Thumbs.db
 
 # Upload folder
 uploads/
+
+*.json
+credentials.json
